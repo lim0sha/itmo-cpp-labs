@@ -1,0 +1,11 @@
+# ninja log v5
+1490	1643	7295271195093409	OPLAB2.exe	5e8814a0c88d646c
+1	284	7303387629393962	build.ninja	9ecb1f9a463c172c
+8	986	7297246834292304	include/CMakeFiles/textfile.dir/menu.cpp.obj	4526c97487023426
+5	2425	7296914440833104	lib/CMakeFiles/textfile.dir/textfile.cpp.obj	3227c46241415f28
+1627	1837	7298015629968717	bin/OPLAB2.exe	6859de3410ccf577
+2427	2683	7296914443454039	lib/libtextfile.a	6b083ba7ca1e877a
+12	1654	7296914433131701	lib/CMakeFiles/textfile.dir/menu.cpp.obj	130881353594227
+5	1627	7298015627909748	bin/CMakeFiles/OPLAB2.dir/main.cpp.obj	f6fa3055c8a5485
+4	1762	7297249230326325	include/CMakeFiles/textfile.dir/textfile.cpp.obj	de273005f6ddcbfb
+1762	1875	7297249231487075	include/libtextfile.a	b035e6bb5bdcf94f

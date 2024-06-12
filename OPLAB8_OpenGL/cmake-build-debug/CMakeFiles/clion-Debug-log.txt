@@ -1,0 +1,9 @@
+"D:\ProgramFiles\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/ProgramFiles/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\ITMO\2_SEM\OP\OPLAB8_OpenGL -B D:\ITMO\2_SEM\OP\OPLAB8_OpenGL\cmake-build-debug
+GLVND not supported. Try find OpenGL legacy
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Including Win32 support
+-- GLM: Version 1.0.0
+-- GLM: Build with C++ features auto detection
+-- Configuring done (0.7s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/ITMO/2_SEM/OP/OPLAB8_OpenGL/cmake-build-debug

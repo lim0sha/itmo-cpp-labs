@@ -1,0 +1,8 @@
+D:/ITMO/2_SEM/OP/OPLAB2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ITMO/2_SEM/OP/OPLAB2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/ITMO/2_SEM/OP/OPLAB2/cmake-build-debug/include/CMakeFiles/textfile.dir
+D:/ITMO/2_SEM/OP/OPLAB2/cmake-build-debug/include/CMakeFiles/edit_cache.dir
+D:/ITMO/2_SEM/OP/OPLAB2/cmake-build-debug/include/CMakeFiles/rebuild_cache.dir
+D:/ITMO/2_SEM/OP/OPLAB2/cmake-build-debug/bin/CMakeFiles/OPLAB2.dir
+D:/ITMO/2_SEM/OP/OPLAB2/cmake-build-debug/bin/CMakeFiles/edit_cache.dir
+D:/ITMO/2_SEM/OP/OPLAB2/cmake-build-debug/bin/CMakeFiles/rebuild_cache.dir

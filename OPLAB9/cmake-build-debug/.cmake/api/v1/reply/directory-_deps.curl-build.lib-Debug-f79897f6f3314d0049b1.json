@@ -1,0 +1,58 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"cmake-build-debug/_deps/curl-src/lib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 228,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/curl-build/lib/libcurl-d.dll.a"
+			],
+			"targetId" : "libcurl_shared::@7349aeacaff41deceb36",
+			"targetIndex" : 238,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/libcurl-d.dll"
+			],
+			"targetId" : "libcurl_shared::@7349aeacaff41deceb36",
+			"targetIndex" : 238,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/curl-build/lib",
+		"source" : "cmake-build-debug/_deps/curl-src/lib"
+	}
+}

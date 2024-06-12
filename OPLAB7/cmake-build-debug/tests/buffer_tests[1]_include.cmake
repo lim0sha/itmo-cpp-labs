@@ -1,0 +1,5 @@
+if(EXISTS "D:/ITMO/2_SEM/OP/OPLAB7/cmake-build-debug/tests/buffer_tests[1]_tests.cmake")
+  include("D:/ITMO/2_SEM/OP/OPLAB7/cmake-build-debug/tests/buffer_tests[1]_tests.cmake")
+else()
+  add_test(buffer_tests_NOT_BUILT buffer_tests_NOT_BUILT)
+endif()

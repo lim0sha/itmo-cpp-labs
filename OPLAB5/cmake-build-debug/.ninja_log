@@ -1,0 +1,20 @@
+# ninja log v5
+9	722	7323145637587435	CMakeFiles/OPLAB5.dir/main.cpp.obj	d6f1c0ae47e8ea49
+0	740	7323119818237281	CMakeFiles/OPLAB5.dir/bin/main.cpp.obj	2edf9fb38a9c1f00
+0	97	7323147009748597	build.ninja	e7179efb3d2ceb3
+10	1075	7323122296558028	bin/CMakeFiles/OPLAB5.dir/main.cpp.obj	ea6b8adeedf03bed
+5	873	7318535154360847	CMakeFiles/OPLAB5.dir/test.cpp.obj	4c4e1af8885b55f0
+3	1400	7323122299820793	include/CMakeFiles/template.dir/templates.cpp.obj	e6a195c94ac4b79e
+1401	1540	7323122301246633	include/libtemplate.a	b0fb60eaddce2945
+7	1053	7323122296337994	include/CMakeFiles/template.dir/__/bin/main.cpp.obj	593ef89684a9f56e
+3	568	7323146481207766	CMakeFiles/OPLAB5.dir/templates.cpp.obj	371275044ecfa94
+953	1081	7323146486298904	OPLAB5.exe	c744269be16f677
+7	953	7323146485038489	CMakeFiles/OPLAB5.dir/stack.cpp.obj	200da3e5aae08fca
+6	682	7323147047248399	CMakeFiles/OPLAB5.dir/template_func.cpp.obj	f74e5213fb9f3285
+3	865	7323147049068672	CMakeFiles/OPLAB5.dir/main.cpp.obj	d6f1c0ae47e8ea49
+9	1100	7323147051419184	CMakeFiles/OPLAB5.dir/template_stack.cpp.obj	229260b82742bef9
+1100	1251	7323147052889520	OPLAB5.exe	310406ddd01f6390
+10	925	7323262746057225	CMakeFiles/OPLAB5.dir/template_func.cpp.obj	f74e5213fb9f3285
+5	1026	7323262747077526	CMakeFiles/OPLAB5.dir/main.cpp.obj	d6f1c0ae47e8ea49
+14	1239	7323262749178413	CMakeFiles/OPLAB5.dir/template_stack.cpp.obj	229260b82742bef9
+1239	1434	7323262751119690	OPLAB5.exe	310406ddd01f6390

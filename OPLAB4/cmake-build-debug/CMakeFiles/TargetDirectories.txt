@@ -1,0 +1,8 @@
+D:/ITMO/2_SEM/OP/OPLAB4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ITMO/2_SEM/OP/OPLAB4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/ITMO/2_SEM/OP/OPLAB4/cmake-build-debug/include/CMakeFiles/round_geo.dir
+D:/ITMO/2_SEM/OP/OPLAB4/cmake-build-debug/include/CMakeFiles/edit_cache.dir
+D:/ITMO/2_SEM/OP/OPLAB4/cmake-build-debug/include/CMakeFiles/rebuild_cache.dir
+D:/ITMO/2_SEM/OP/OPLAB4/cmake-build-debug/bin/CMakeFiles/OPLAB4.dir
+D:/ITMO/2_SEM/OP/OPLAB4/cmake-build-debug/bin/CMakeFiles/edit_cache.dir
+D:/ITMO/2_SEM/OP/OPLAB4/cmake-build-debug/bin/CMakeFiles/rebuild_cache.dir

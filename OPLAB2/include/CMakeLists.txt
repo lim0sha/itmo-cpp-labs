@@ -1,0 +1,1 @@
+add_library(textfile textfile.cpp menu.cpp)

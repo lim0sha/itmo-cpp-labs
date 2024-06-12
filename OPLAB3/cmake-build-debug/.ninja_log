@@ -1,0 +1,7 @@
+# ninja log v5
+8	1454	7302391742362131	include/CMakeFiles/set_x_square.dir/set.cpp.obj	bdee7ba66f5a763e
+11	1154	7302391739373824	include/CMakeFiles/set_x_square.dir/square.cpp.obj	25aa7f84650c487
+1552	1668	7302391744469374	bin/OPLAB3.exe	77a4fae05b21a45b
+1454	1552	7302391743362434	include/libset_x_square.a	e68ad04cf59de8b8
+14	1219	7302391740023983	bin/CMakeFiles/OPLAB3.dir/main.cpp.obj	9c06319b08b10a95
+4	1225	7302391740083998	include/CMakeFiles/set_x_square.dir/__/bin/main.cpp.obj	f0b898ad8dc3d62

@@ -1,0 +1,11 @@
+# ninja log v5
+946	1096	7324140287630109	OPLAB6.exe	106ec9e5c141b267
+7	980	7324141626902173	CMakeFiles/OPLAB6.dir/main.cpp.obj	98ede5414357c281
+6	747	7323088361574073	bin/CMakeFiles/OPLAB6.dir/main.cpp.obj	751ddd3aeaa8834a
+3	742	7323088361524060	include/CMakeFiles/stl_functions.dir/__/bin/main.cpp.obj	be16da5f4faf10f2
+8	725	7323086906332545	include/CMakeFiles/stl_functions.dir/stl_template_functions.cpp.obj	e2cbfda90b60a30f
+743	815	7323088362265758	include/libstl_functions.a	edc9e04cbf6bfdc7
+0	90	7324142384832278	build.ninja	4f5295a87eef84d4
+3	570	7324141622821235	CMakeFiles/OPLAB6.dir/stl_functions.cpp.obj	45f2d987b44ecfe0
+4	955	7324142397325105	CMakeFiles/OPLAB6.dir/main.cpp.obj	98ede5414357c281
+956	1075	7324142398495544	OPLAB6.exe	2c0a52f28a6a827
